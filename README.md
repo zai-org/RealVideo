@@ -109,3 +109,4 @@ real-time generation can be achieved. Numbers in parentheses indicate the time t
 This project utilizes the following open-source libraries:
 
 - [self forcing](https://github.com/guandeh17/Self-Forcing)
+- [Wan2.2-S2V](https://github.com/Wan-Video/Wan2.2)
